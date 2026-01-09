@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Willian Machado
+# 📊🎲 Willian Machado 
 
 **`Economista e Cientista de Dados`**
 
@@ -9,7 +9,7 @@ Minha Graduação em Ciências Econômicas foi realizada na UNESP, sou pós-grad
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
