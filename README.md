@@ -40,9 +40,18 @@ Minha Graduação em Ciências Econômicas foi realizada na UNESP, sou pós-grad
 
 <img 
     align="left" 
+    alt="VBA" 
+    title="VBA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" 
+/>        
+
+<img 
+    align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" 
 />  
@@ -63,7 +72,7 @@ Minha Graduação em Ciências Econômicas foi realizada na UNESP, sou pós-grad
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/500px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg"
+    src="https://www.svgrepo.com/show/373589/excel.svg"
 />  
 
 <img 
