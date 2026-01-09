@@ -56,6 +56,34 @@ Minha Graduação em Ciências Econômicas foi realizada na UNESP, sou pós-grad
     src="https://www.svgrepo.com/show/354012/looker-icon.svg" 
 />     
 
+
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/500px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg"
+/>  
+
+<img 
+    align="left" 
+    alt="Microsoft Azure" 
+    title="Microsoft Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+/>  
+
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+/>  
+
 <img 
     align="left" 
     alt="Git" 
