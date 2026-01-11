@@ -6,6 +6,7 @@ Sou um constante aprendiz, fascinado pela Ciência de Dados e suas aplicações 
 
 Minha Graduação em Ciências Econômicas foi realizada na UNESP, sou pós-graduado (MBA) em Economia Aplicada pela FIPE e possuo um Tecnólogo em Ciência de Dados pela FIAP. 
 
+Atualmente, como docente na Escola SENAI, compartilho meu conhecimento em Data Science, BI e Análise de Dados, integrando minha formação em Economia à prática em tecnologia e inovação.
 
 ---
 
